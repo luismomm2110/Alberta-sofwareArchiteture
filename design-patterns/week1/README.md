@@ -1,0 +1,1 @@
+# Adapter Problem: https://www.coursera.org/learn/design-patterns/peer/KYA1y/ungraded-assignment-adapter-pattern
