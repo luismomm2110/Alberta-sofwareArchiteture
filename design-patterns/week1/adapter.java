@@ -26,9 +26,4 @@ public class CoffeeTouchscreenAdapter implements CoffeeMachineInterface {
 	public void chooseSecondSelection() {
 		this.oldVendingMachine.selectB();
 	}
-
-
-
-
-
 };
